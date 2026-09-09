@@ -7,7 +7,7 @@ Dashboard: https://public.tableau.com/views/Feb-AugGrowthAnalysis/Dashboard1?:la
 - No order-level attribution links Meta campaigns to individual purchases, so this analysis identifies patterns that coincide over the study period rather than proven causal effects.
 
 **Data note**
-This repo contains schema and transformation SQL only as no raw data exports or files containing the business's actual spend/revenue figures are included to keep the underlying business data private.
+- This repo contains schema and transformation SQL only as no raw data exports or files containing the business's actual spend/revenue figures are included to keep the underlying business data private.
 
 **Pipeline**
 - The SQL files in this repo are numbered in the order they were built, each representing a real milestone in the project rather than a cleaned-up final draft:
