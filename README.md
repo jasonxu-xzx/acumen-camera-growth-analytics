@@ -1,6 +1,6 @@
 # acumen-camera-growth-analytics
-A growth analytics project analyzing Meta ad spend and Shopify funnel performance for a small e-commerce business built in PostgreSQL and Tableau.
-Dashboard: https://public.tableau.com/views/Feb-AugGrowthAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
+- A growth analytics project analyzing Meta ad spend and Shopify funnel performance for a small e-commerce business built in PostgreSQL and Tableau.
+- Dashboard: https://public.tableau.com/views/Feb-AugGrowthAnalysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
 
 **Project Overview**
 - This project analyzes how Meta ad activity relates to on-site traffic and conversion, and identifies where in the purchase funnel the business loses the most potential customers. It combines two independently-exported data sources — Meta Ads Manager and Shopify Analytics — into a single daily fact table, then builds funnel and traffic-quality metrics on top of it.
@@ -24,5 +24,5 @@ Dashboard: https://public.tableau.com/views/Feb-AugGrowthAnalysis/Dashboard1?:la
 - The largest funnel drop-off happens between a site visit and a cart addition
 
 **Tools**
-PostgreSQL: data cleaning, transformation, and modeling
-Tableau: analysis and dashboard visualization
+- PostgreSQL: data cleaning, transformation, and modeling
+- Tableau: analysis and dashboard visualization
